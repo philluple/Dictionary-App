@@ -21,7 +21,7 @@ class DictionaryViewModel: ObservableObject{
 
 
     let headers = [
-        "X-RapidAPI-Key": "8ceb278b2emshe7c6ad44ac75e29p1b3640jsn59e111b1ad73",
+        "X-RapidAPI-Key": "",
         "X-RapidAPI-Host": "wordsapiv1.p.rapidapi.com"
     ]
 

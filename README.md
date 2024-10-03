@@ -11,3 +11,6 @@
 ### Development
 
 This app was designed and developed solo within a week, leveraging WordsAPI for the core functionality. The focus was on creating a simple yet powerful tool for anyone needing both definitions and rhymes in one place.
+
+## Here is a short demo! 
+![](https://github.com/philluple/WordChime/WordChime.gif)
